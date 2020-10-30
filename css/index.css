@@ -132,8 +132,39 @@ p {
 #teal {
     background-color: teal; 
 }
-.box4{
+.box1{
     background-color: teal;
+}
+
+.box2{
+    background-color: gold;
+}   
+.box3{
+    background-color: cadetblue;
+}
+.box4{
+    background-color: coral;
+}
+
+.box5{
+    background-color:crimson;
+}
+
+.box6{
+    background-color: forestgreen;
+}
+.box7{
+    background-color: darkorchid;
+}
+.box8{
+    background-color: hotpink;
+}
+.box9{
+    background-color:indigo;
+}
+
+.box10{
+    background-color: dodgerblue
 }
 
 .bottom-content {
@@ -192,3 +223,32 @@ button{
         margin-bottom: 3%;
         border-radius: 15px;
     }
+
+
+/* Self Study Questions
+Demonstrate your understanding of this week's concepts by answering the following free-form questions.
+
+Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead
+
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+    Semantic HTML adds clear meaning to an element and defines its content
+
+Name two big differences between display: block; and display: inline;.
+
+    two differences are block does not add a line break after the element allowing elements to sit next to each other while inline allows for settin gthe width and height and the margins and padding are dominant while not the case in block
+
+What are the 4 areas of the box model?
+
+    content, padding, border, and margin
+
+
+While using flexbox, what axis does the following property work on: align-items: center?
+    
+        vertical axis 
+
+Explain why git is valuable to a team of developers.
+
+        allowing collaboration and saving version history
+
+You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section will prevent you from passing this challenge.*/
